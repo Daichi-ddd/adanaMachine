@@ -28,4 +28,4 @@ let adanaMachine = (namae, keisyouCount) => {
 
 document.getElementById('result').textContent = adanaMachine(namae, keisyouCount);
 
-//次のタスク：入力できるようにする
+//次のタスク：入力できるようにする!
